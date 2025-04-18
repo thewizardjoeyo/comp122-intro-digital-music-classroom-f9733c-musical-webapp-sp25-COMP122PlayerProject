@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "name": "bad romance melody",
+    "loop": "1:0:0",
+    "sequence": [
+      { "time": "0:0:0", "pitch": "A4", "dur": "8n", "vel": 1 },
+      { "time": "0:0:2", "pitch": "A4", "dur": "8n", "vel": 1 },
+      { "time": "0:1:0", "pitch": "A4", "dur": "8n", "vel": 1 },
+      { "time": "0:1:2", "pitch": "F4", "dur": "8n", "vel": 1 },
+      { "time": "0:2:0", "pitch": "G4", "dur": "8n", "vel": 1 },
+      { "time": "0:2:2", "pitch": "A4", "dur": "8n", "vel": 1 },
+      { "time": "0:3:0", "pitch": "A4", "dur": "4n", "vel": 1 }
+    ]
+  },
+  {
+    "name": "bad romance chords",
+    "loop": "1:0:0",
+    "sequence": [
+      { "time": "0:0:0", "pitch": "Am3", "dur": "4n", "vel": 0.9 },
+      { "time": "0:1:0", "pitch": "F3", "dur": "4n", "vel": 0.9 },
+      { "time": "0:2:0", "pitch": "G3", "dur": "4n", "vel": 0.9 },
+      { "time": "0:3:0", "pitch": "Am3", "dur": "4n", "vel": 0.9 }
+    ]
+  }
+]
